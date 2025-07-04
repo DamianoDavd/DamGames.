@@ -120,8 +120,8 @@ const modalContent = {
   Project_1: {
     title: "Website Sepatu",
     content:
-      "Ini adalah website e-commers yang saya buat, lebih tepatnya website sepatu, saya membuatnya untuk memenuhi tugas sekolah dan dibuat dengan html, css, javascipt.",
-    link: "https://muhammadihya.github.io/Damjet/",
+      "Ini adalah sebuah website percobaan, yang dimana teman-teman sekalian bisa melihat tentang apa yang telah saya buat.",
+    link: "http://192.168.1.4:5173/",
   },
   Project_2: {
     title: "📋Absensi Kelas✏️",

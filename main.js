@@ -138,12 +138,12 @@ const modalContent = {
   Chest: {
     title: "💁‍♀️ About Me",
     content:
-      "Hallo teman teman, nama saya Muhammad Ihya, saya sering di panggil dam, saya lahir tahun 2008 di Banjarnegara, kini saya menempuh pendidikan di SMKN 46 Jakarta, NIKMATII WEBSITENYAA YAA TEMAN2 KOOOO!!!, DADAHH  Bella is OUT!!! 🏃‍♀️",
+      "Hallo teman teman, nama saya Muhammad Ihya Ulumiddin, mungkin teman-teman sekalian lebih mengenal panggilan Dam, saya adalah sebuah siswa SMKN 46 Jakarta dengan jurusan RPL, saya disini masih membutuhkah pengembangan dalam sebuah website saya, dan membutuhkan kritik saran tentang apa yang telah saya buat terimakasih teman teman, DADAHH  Bella is OUT!!! 🏃‍♀️",
   },
   Picnic: {
   title: "🍷 Bella... LoveD 🧺",
   content:
-    "Bella, cantik seperti matahari, tapi hangus di dalam. Ia duduk diam di taman, bukan karena damai — tapi karena itu satu-satunya tempat di mana dunia tak bisa menjangkaunya. Tak ada tawa, hanya bayangan yang pelan-pelan menelan cahaya matanya.\n\nMereka pikir dia aneh. Tapi mereka tak tahu: Bella menyerap luka dari semua orang, lalu menyembunyikannya di balik senyum yang ia latih bertahun-tahun. Dia ingin laut — tapi takut tenggelam. Ingin bicara — tapi kata-kata adalah pisau di lidahnya sendiri. Mungkin... lautan itu bukan di luar, tapi di dalam dirinya.\n\nDia tak butuh pahlawan. Hanya seseorang yang cukup berani untuk duduk di sampingnya, mendengar ceritanya, dan tidak lari ketika semuanya gelap.\n\nDan jika kamu cukup diam... kamu akan dengar bisikannya: 'Aku lelah jadi kuat, dia tidak ada, tetapi seperti ada, Bella sama seperti Coraline yang di rilis maneskin, tidak ada tetapi terasa ada!.'"
+    "Bella, cantik seperti matahari, tapi hangus di dalam. Ia duduk diam di taman, bukan karena damai — tapi karena itu satu-satunya tempat di mana dunia tak bisa menjangkaunya. Tak ada tawa, hanya bayangan yang pelan-pelan menelan cahaya matanya.\n\nMereka pikir dia aneh. Tapi mereka tak tahu: Bella menyerap luka dari semua orang, lalu menyembunyikannya di balik senyum yang ia latih bertahun-tahun. Dia ingin laut — tapi takut tenggelam. Ingin bicara — tapi kata-kata adalah pisau di lidahnya sendiri. Mungkin... lautan itu bukan di luar, tapi di dalam dirinya.\n\nDia tak butuh pahlawan. Hanya seseorang yang cukup berani untuk duduk di sampingnya, mendengar ceritanya, dan tidak lari ketika semuanya gelap.\n\nDan jika kamu cukup diam... kamu akan dengar bisikannya: 'Aku lelah jadi kuat, dia tidak ada, tetapi seperti ada.'"
 },
 
 

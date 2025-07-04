@@ -118,7 +118,7 @@ const secondIconTwo = document.querySelector(".second-icon-two");
 // Modal stuff
 const modalContent = {
   Project_1: {
-    title: "Website Sepatu",
+    title: "Website 3d Rumah",
     content:
       "Ini adalah sebuah website percobaan, yang dimana teman-teman sekalian bisa melihat tentang apa yang telah saya buat.",
     link: "http://192.168.1.4:5173/",
